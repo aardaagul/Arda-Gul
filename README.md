@@ -17,11 +17,12 @@ My ultimate goal is to bridge the gap between user-friendly mobile interfaces an
 
 📫 **How to reach me:** [https://www.linkedin.com/in/arda-gül-201392257/]
 
----
-  ### 📊 Geliştirici İstatistiklerim
-<div>
-  
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=aardaagul&show_icons=true&theme=tokyonight)](https://github.com/aardaagul)
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aardaagul&layout=compact&theme=tokyonight)](https://github.com/aardaagul)
+### 💻 Hedeflenen Teknolojiler & Araçlar
 
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
