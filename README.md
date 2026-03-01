@@ -18,9 +18,10 @@ My ultimate goal is to bridge the gap between user-friendly mobile interfaces an
 📫 **How to reach me:** [https://www.linkedin.com/in/arda-gül-201392257/]
 
 ---
-### 📊 Geliştirici İstatistiklerim
+  ### 📊 Geliştirici İstatistiklerim
+<div>
+  
+[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=aardaagul&show_icons=true&theme=tokyonight)](https://github.com/aardaagul)
+[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aardaagul&layout=compact&theme=tokyonight)](https://github.com/aardaagul)
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aardaagul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aardaagul&layout=compact&theme=tokyonight"/>
 </div>
